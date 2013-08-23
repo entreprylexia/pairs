@@ -1,3 +1,2 @@
-puts "Hello, #{ARGV.third}!"
-puts "new, #{ARGV.second}!"
-puts "Howyd"
+puts "Hello, #{ARGV.first}!"
+
